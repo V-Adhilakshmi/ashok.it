@@ -6,5 +6,11 @@ class student2{
 string name;
 int id;
 }
+<<<<<<< Updated upstream
 story 2
 java program compled
+=======
+story 1
+java is very easy
+
+>>>>>>> Stashed changes
