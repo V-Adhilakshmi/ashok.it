@@ -2,3 +2,7 @@ class student{
 string name;
 int id;
 }
+class student2{
+string name;
+int id;
+}
