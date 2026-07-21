@@ -6,3 +6,5 @@ class student2{
 string name;
 int id;
 }
+story 2
+java program compled
