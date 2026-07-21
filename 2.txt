@@ -6,3 +6,5 @@ class student 3{
 string name;
 int id;
 }
+story 2
+this is my road
