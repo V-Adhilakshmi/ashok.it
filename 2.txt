@@ -1,0 +1,4 @@
+class student1{
+string name;
+int id;
+}
