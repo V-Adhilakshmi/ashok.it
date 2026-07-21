@@ -6,5 +6,11 @@ class student 3{
 string name;
 int id;
 }
+<<<<<<< Updated upstream
 story 2
 this is my road
+=======
+story 1 
+this my book
+this is my girl
+
